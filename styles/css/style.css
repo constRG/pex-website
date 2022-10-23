@@ -52,7 +52,7 @@ input:focus {
 /* HEADER */
 
 #header {
-    background-image: url("constRG/pex-website/assets/img/pex-hero-bg.jpg");
+    background-image: url("/pex-website/assets/img/pex-hero-bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -234,7 +234,7 @@ input:focus {
 /* WICKED AND WHACK */
 
 #wicked-and-whack {
-    background: url("constRG/pex-website/assets/img/wicked-and-whacked-bg.jpg");
+    background: url("/pex-website/assets/img/wicked-and-whacked-bg.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -303,7 +303,7 @@ input:focus {
 /* EXPERIENCE THE RUSH TODAY */
 
 #experience-the-rush-today {
-    background-image: url("constRG/pex-website/assets/img/experience-the-rush-today-bg.jpg");
+    background-image: url("/pex-website/assets/img/experience-the-rush-today-bg.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -340,7 +340,7 @@ input:focus {
 
 
 #feature-article {
-    background: url("constRG/pex-website/assets/img/feature-article-bg.jpg");
+    background: url("/pex-website/assets/img/feature-article-bg.jpg");
     background-size: cover;
     background-position: center;
 }
